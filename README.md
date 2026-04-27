@@ -22,14 +22,14 @@ We have two type catagories to use the LLM's.
 2. Building perspective
 
 lets play game when we heared 
-promt enginear - user perspective
-RLHF (Reinforcement Learning with Human Feedback) - Building perspective
-RAG ( Retrieval-Augmented Generation ) - user perspective
-Pre-training - Building perspective
-Quantization - Building perspective
-AI agents - user perspective
-Vector database - user perspective
-Fine tuning - both side we are using 
+- promt enginear - user perspective
+- RLHF (Reinforcement Learning with Human Feedback) - Building perspective
+- RAG ( Retrieval-Augmented Generation ) - user perspective
+- Pre-training - Building perspective
+- Quantization - Building perspective
+- AI agents - user perspective
+- Vector database - user perspective
+- Fine tuning - both side we are using 
 
 <img width="1031" height="666" alt="image" src="https://github.com/user-attachments/assets/10bb5669-ec67-43c1-84c1-9d6d1ceed64a" />
 
