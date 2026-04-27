@@ -132,3 +132,36 @@ In starting stage's we create a Ebook wherehouse
 
 <img width="833" height="455" alt="image" src="https://github.com/user-attachments/assets/20bc6cd1-e7ab-4ac4-ba5a-5e03ecc4957f" />
 
+1. Models = In langchain, "models" are the core interfaces through which you interact with AI tools.
+
+
+Issue : 
+Understand NLP
+LLM size large
+
+Solution: API calling 
+
+
+<img width="1102" height="555" alt="image" src="https://github.com/user-attachments/assets/2a5a628b-f46c-4e36-bf56-58e8b0472c85" />
+
+# Via langchain 
+
+<img width="1116" height="396" alt="image" src="https://github.com/user-attachments/assets/105a6b94-9463-47c9-acee-4a1a92e17441" />
+
+
+<img width="1103" height="528" alt="image" src="https://github.com/user-attachments/assets/9d65b606-ea4c-416d-88e3-a861f1ad7b5d" />
+
+<img width="1059" height="502" alt="image" src="https://github.com/user-attachments/assets/5b51a605-6b37-4402-981e-9d860c42192e" />
+
+<img width="1097" height="255" alt="image" src="https://github.com/user-attachments/assets/41f10caa-9859-4956-9927-4dff86af90ed" />
+
+<img width="1066" height="522" alt="image" src="https://github.com/user-attachments/assets/40f6807b-0532-449f-b389-ec459c1b3a20" />
+
+<img width="1027" height="361" alt="image" src="https://github.com/user-attachments/assets/0c7d943c-7efc-4f1c-8720-2b194a17b18d" />
+
+<img width="861" height="373" alt="image" src="https://github.com/user-attachments/assets/265807aa-8e45-4c29-927b-5d33c0d41a85" />
+
+<img width="1109" height="331" alt="image" src="https://github.com/user-attachments/assets/00989b43-39fa-447e-ab70-6c5642000d51" />
+
+<img width="1079" height="493" alt="image" src="https://github.com/user-attachments/assets/4d7873f3-f519-4e50-adac-8ab58805b14c" />
+
