@@ -3,6 +3,10 @@
 Question: What is generative a?
 Answer: Generative ai is a type of artifical intelligence that creates new content such as text, image, music, or code by learning patterns from existing data, mimicking human creativity.
 
+<img width="471" height="465" alt="image" src="https://github.com/user-attachments/assets/ed9edfbe-bec9-44f1-9bf8-dbeaf13c6e46" />
+
+
+
 <img width="1031" height="666" alt="image" src="https://github.com/user-attachments/assets/10bb5669-ec67-43c1-84c1-9d6d1ceed64a" />
 
 AI = artifical intelligence
