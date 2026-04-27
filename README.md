@@ -1,5 +1,7 @@
 # gen-ai
 
+# day 1 
+
 Question: What is generative a?
 Answer: Generative ai is a type of artifical intelligence that creates new content such as text, image, music, or code by learning patterns from existing data, mimicking human creativity.
 
@@ -44,7 +46,8 @@ Builder flow terms :
 6. Evalution
 7. Deployment
 
-<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/2ebb7f37-af04-40d9-baa2-1acec2cf44b1" />
+
+<img width="1170" height="675" alt="image" src="https://github.com/user-attachments/assets/88f675ee-95c6-4505-a4ea-3c7cedf532c1" />
 
 User perspective flow:
 
@@ -55,21 +58,15 @@ User perspective flow:
 5. Agents
 6. LLM-OPS
 
+<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/2ebb7f37-af04-40d9-baa2-1acec2cf44b1" />
+
 Builder side jobs : data scientist
 User side jobs : Software developers
 Builder side and User side : Ai  Engineer
 
-
-
-<img width="1170" height="675" alt="image" src="https://github.com/user-attachments/assets/88f675ee-95c6-4505-a4ea-3c7cedf532c1" />
-
-
-
-<img width="833" height="446" alt="image" src="https://github.com/user-attachments/assets/5ab4d6e6-828c-4dd8-9601-9742785569af" />
-
-
-
-![Uploading image.png…]()
+*****************************************************************************
+# Day 2
+*****************************************************************************
 
 What is langchain?
 langchain is an open source framework that helps in building LLM based application. It provides modular components and end t;o end tools that help developers buld complex AI applications, such as chatbots, question-answering systems, retrievel augmented generation , autonomous agents and more.
