@@ -12,8 +12,6 @@ GenAI = Generative artifical intelligence
 
 Gen Impact Area = customer support, Content creation, Education, 
 
-<img width="1031" height="666" alt="image" src="https://github.com/user-attachments/assets/10bb5669-ec67-43c1-84c1-9d6d1ceed64a" />
-
 What is LLM?
 LLM stands for Large Language Model. It is a type of artificial intelligence model trained on vast amounts of text data to understand, generate, and process human language. Examples include models like GPT-3, GPT-4, and others, which can perform tasks such as writing, translation, summarization, and answering questions.
 
@@ -31,6 +29,8 @@ AI agents - user perspective
 Vector database - user perspective
 Fine tuning - both side we are using 
 
+<img width="1031" height="666" alt="image" src="https://github.com/user-attachments/assets/10bb5669-ec67-43c1-84c1-9d6d1ceed64a" />
+
 Builder perspective flow:
 
 Pre-request: Machine learning fundamentals , Deep learining fundamentals (TensorFlow, PyTorch )
@@ -43,6 +43,8 @@ Builder flow terms :
 5. Fine-tune ( task specific tuning [RLHF], instruction tuning [PEFT], continual pre-training)
 6. Evalution
 7. Deployment
+
+<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/2ebb7f37-af04-40d9-baa2-1acec2cf44b1" />
 
 User perspective flow:
 
@@ -61,15 +63,11 @@ Builder side and User side : Ai  Engineer
 
 <img width="1170" height="675" alt="image" src="https://github.com/user-attachments/assets/88f675ee-95c6-4505-a4ea-3c7cedf532c1" />
 
-Builder perspective
 
-<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/2ebb7f37-af04-40d9-baa2-1acec2cf44b1" />
-
-User perspective
 
 <img width="833" height="446" alt="image" src="https://github.com/user-attachments/assets/5ab4d6e6-828c-4dd8-9601-9742785569af" />
 
-<img width="833" height="446" alt="image" src="https://github.com/user-attachments/assets/2086dde0-24e2-4e64-974d-10e9aa6b678d" />
+
 
 ![Uploading image.png…]()
 
