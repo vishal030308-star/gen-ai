@@ -77,4 +77,58 @@ langchain is an open source framework that helps in building LLM based applicati
 - open source/free/actively developed
 - supports all major GenAI use cases
 
-- 
+ Curriculum structure 
+
+ <img width="647" height="371" alt="image" src="https://github.com/user-attachments/assets/40d0f6e1-447a-448d-97f0-a7704da0d006" />
+
+Langchain roadmap
+
+1. Fundamentals
+   a. what is langchain
+   b. langchain components
+   c. models
+   d. prompts
+   e. parsing outputs
+   f. runnables and LCEL
+   g. chains
+   h. memory
+
+2. RAG
+   a. document loaders
+   b. text splitters
+   c. embeddings
+   d. vector stores
+   e. retrievers
+   f. building a rag application
+
+3. Agents
+   a. tools and toolkits
+   b. tool calling
+   c. building an AI agent
+
+What is langchain?
+langchain is an open-source framework for developing applications powered by large language models (LLM's )
+
+Why we need langchain?
+In starting stage's we create a Ebook wherehouse 
+<img width="1069" height="454" alt="image" src="https://github.com/user-attachments/assets/42b44b31-be01-462f-bfcd-3c34425afaaa" />
+
+<img width="1082" height="554" alt="image" src="https://github.com/user-attachments/assets/f5c1ef14-a69c-468d-a447-55e79165867e" />
+
+<img width="1079" height="565" alt="image" src="https://github.com/user-attachments/assets/033825c7-e16b-4a1f-a640-537683c0932f" />
+
+
+<img width="1107" height="555" alt="image" src="https://github.com/user-attachments/assets/acd7c210-056f-447b-ae2f-4660f882ec64" />
+
+<img width="1080" height="551" alt="image" src="https://github.com/user-attachments/assets/c599a87b-0eb4-41ea-8920-db5d20751fd2" />
+
+<img width="1108" height="203" alt="image" src="https://github.com/user-attachments/assets/e4eb2bb3-5334-45b1-8cf6-b8c9f6d9c315" />
+
+<img width="357" height="262" alt="image" src="https://github.com/user-attachments/assets/0a8275b6-682a-4e55-a83d-e561fe8cdf31" />
+
+<img width="302" height="211" alt="image" src="https://github.com/user-attachments/assets/c0c523df-62e7-4e48-9075-5cad3e28506a" />
+
+# Components of langchain
+
+<img width="833" height="455" alt="image" src="https://github.com/user-attachments/assets/20bc6cd1-e7ab-4ac4-ba5a-5e03ecc4957f" />
+
