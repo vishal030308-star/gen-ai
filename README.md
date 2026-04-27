@@ -169,3 +169,5 @@ Solution: API calling
 
 <img width="1125" height="279" alt="image" src="https://github.com/user-attachments/assets/84448361-9e01-465f-b764-926ae614906e" />
 
+<img width="1120" height="394" alt="image" src="https://github.com/user-attachments/assets/48349db0-afd5-4f9c-a751-3bc675b5a408" />
+
